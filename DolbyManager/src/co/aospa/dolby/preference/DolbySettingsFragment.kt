@@ -12,14 +12,13 @@ import android.media.AudioDeviceInfo
 import android.media.AudioManager
 import android.os.Bundle
 import android.os.Handler
-import android.widget.CompoundButton
-import android.widget.CompoundButton.OnCheckedChangeListener
+import android.widget.Switch
 import android.widget.Toast
 import androidx.preference.ListPreference
 import androidx.preference.Preference
 import androidx.preference.Preference.OnPreferenceChangeListener
 import androidx.preference.PreferenceFragment
-import androidx.preference.SwitchPreferenceCompat
+import androidx.preference.SwitchPreference
 import co.aospa.dolby.DolbyConstants
 import co.aospa.dolby.DolbyConstants.Companion.PREF_BASS
 import co.aospa.dolby.DolbyConstants.Companion.PREF_DIALOGUE
@@ -36,9 +35,10 @@ import co.aospa.dolby.DolbyConstants.Companion.dlog
 import co.aospa.dolby.DolbyController
 import co.aospa.dolby.R
 import com.android.settingslib.widget.MainSwitchPreference
+import com.android.settingslib.widget.OnMainSwitchChangeListener
 
 class DolbySettingsFragment : PreferenceFragment(),
-    OnPreferenceChangeListener, CompoundButton.OnCheckedChangeListener {
+    OnPreferenceChangeListener, OnMainSwitchChangeListener {
 
     private val switchBar by lazy {
         findPreference<MainSwitchPreference>(PREF_ENABLE)!!
@@ -59,16 +59,16 @@ class DolbySettingsFragment : PreferenceFragment(),
         findPreference<ListPreference>(PREF_DIALOGUE)!!
     }
     private val bassPref by lazy {
-        findPreference<SwitchPreferenceCompat>(PREF_BASS)!!
+        findPreference<SwitchPreference>(PREF_BASS)!!
     }
     private val hpVirtPref by lazy {
-        findPreference<SwitchPreferenceCompat>(PREF_HP_VIRTUALIZER)!!
+        findPreference<SwitchPreference>(PREF_HP_VIRTUALIZER)!!
     }
     private val spkVirtPref by lazy {
-        findPreference<SwitchPreferenceCompat>(PREF_SPK_VIRTUALIZER)!!
+        findPreference<SwitchPreference>(PREF_SPK_VIRTUALIZER)!!
     }
     private val volumePref by lazy {
-        findPreference<SwitchPreferenceCompat>(PREF_VOLUME)!!
+        findPreference<SwitchPreference>(PREF_VOLUME)!!
     }
     private val resetPref by lazy {
         findPreference<Preference>(PREF_RESET)!!
@@ -200,8 +200,8 @@ class DolbySettingsFragment : PreferenceFragment(),
         return true
     }
 
-    override fun onCheckedChanged(buttonView: CompoundButton, isChecked: Boolean) {
-        dlog(TAG, "onCheckedChanged($isChecked)")
+    override fun onSwitchChanged(switchView: Switch, isChecked: Boolean) {
+        dlog(TAG, "onSwitchChanged($isChecked)")
         dolbyController.dsOn = isChecked
         profilePref.setEnabled(isChecked)
         updateProfileSpecificPrefs()
