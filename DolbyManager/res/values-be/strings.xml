@@ -20,7 +20,7 @@
     <string name="dolby_spk_virtualizer">Віртуалізацыя Дынамікаў</string>
     <string name="dolby_hp_virtualizer">Віртуалізацыя Навушнікаў</string>
     <string name="dolby_stereo_widening">Стэрэасістэма Пашырэння</string>
-    <string name="dolby_volume_leveler">Узроўня Аб'Ёму</string>
+    <string name="dolby_volume_leveler">Узроўня Аб\'Ёму</string>
     <string name="dolby_connect_headphones">Падключыце Навушнікі</string>
     <string name="dolby_reset_profile">Скіньце Па Змаўчанні</string>
     <string name="dolby_reset_profile_toast">Паспяхова Скіньце Налады Для Профілю %1 $</string>

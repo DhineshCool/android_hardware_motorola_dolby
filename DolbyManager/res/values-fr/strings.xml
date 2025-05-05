@@ -17,7 +17,7 @@
     <string name="dolby_category_settings">Paramètres</string>
     <string name="dolby_bass_enhancer">Basse</string>
     <string name="dolby_dialogue_enhancer">Enhancer De Dialogue</string>
-    <string name="dolby_spk_virtualizer">Virtualisation De L'Orateur</string>
+    <string name="dolby_spk_virtualizer">Virtualisation De L\'Orateur</string>
     <string name="dolby_hp_virtualizer">Virtualisation Du Casque</string>
     <string name="dolby_stereo_widening">Élargissement Stéréo</string>
     <string name="dolby_volume_leveler">Niveleur De Volume</string>

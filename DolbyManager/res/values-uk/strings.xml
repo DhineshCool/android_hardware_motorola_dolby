@@ -20,7 +20,7 @@
     <string name="dolby_spk_virtualizer">Віртуалізація Динаміків</string>
     <string name="dolby_hp_virtualizer">Віртуалізація Навушників</string>
     <string name="dolby_stereo_widening">Стерео Розширення</string>
-    <string name="dolby_volume_leveler">Об'Ємний Рівень</string>
+    <string name="dolby_volume_leveler">Об\'Ємний Рівень</string>
     <string name="dolby_connect_headphones">Підключіть Навушники</string>
     <string name="dolby_reset_profile">Скидання За Замовчуванням</string>
     <string name="dolby_reset_profile_toast">Успішно Скинути Налаштування На %1 $ S Профілю</string>
@@ -54,7 +54,7 @@
     <string name="dolby_geq_delete_preset_prompt">Ви Хочете Видалити Цю Попередньо Встановлену?</string>
     <string name="dolby_geq_reset_gains">Скидання Виграшів</string>
     <string name="dolby_geq_reset_gains_prompt">Ви Хочете Скинути Попередньо Встановлений За Замовчуванням?</string>
-    <string name="dolby_geq_preset_name_exists">Попереднє Ім'Я Вже Існує!</string>
-    <string name="dolby_geq_preset_name_too_long">Попереднє Ім'Я Занадто Довге!</string>
+    <string name="dolby_geq_preset_name_exists">Попереднє Ім\'Я Вже Існує!</string>
+    <string name="dolby_geq_preset_name_too_long">Попереднє Ім\'Я Занадто Довге!</string>
 
 </resources>

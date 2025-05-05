@@ -3,7 +3,7 @@
 
     
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_enable">Dolby Atmos'U Kullanın</string>
+    <string name="dolby_enable">Dolby Atmos\'U Kullanın</string>
     <string name="dolby_profile_title">Bir Profil Seçin</string>
     <string name="dolby_preset">Grafik Ekolayzer</string>
     <string name="dolby_off">Kapalı</string>
@@ -49,7 +49,7 @@
     <string name="dolby_geq_preset">Önceden Belirlemek</string>
     <string name="dolby_geq_preset_name">Önceden Ayarlanmış Isim</string>
     <string name="dolby_geq_new_preset">Yeni Ön Ayar</string>
-    <string name="dolby_geq_rename_preset">Ön Ayar'I Yeniden Adlandır</string>
+    <string name="dolby_geq_rename_preset">Ön Ayar\'I Yeniden Adlandır</string>
     <string name="dolby_geq_delete_preset">Önceden Ayarlanmış</string>
     <string name="dolby_geq_delete_preset_prompt">Bu Ön Ayarı Silmek Istiyor Musunuz?</string>
     <string name="dolby_geq_reset_gains">Kazançları Sıfırla</string>
