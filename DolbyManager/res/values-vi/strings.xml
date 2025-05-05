@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Sử Dụng Dolby Atmos</string>
+    <string name="dolby_profile_title">Chọn Một Hồ Sơ</string>
+    <string name="dolby_preset">Cân Bộ Đồ Họa</string>
+    <string name="dolby_off">Tắt</string>
+    <string name="dolby_on">Trên</string>
+    <string name="dolby_low">Thấp</string>
+    <string name="dolby_medium">Trung Bình</string>
+    <string name="dolby_high">Cao</string>
+    <string name="dolby_max">Tối Đa</string>
+    <string name="dolby_unknown">Không Xác Định</string>
+    <string name="dolby_on_with_profile">Trên (%1 $ S)</string>
+    <string name="dolby_category_settings">Cài Đặt</string>
+    <string name="dolby_bass_enhancer">Bass Enhancer</string>
+    <string name="dolby_dialogue_enhancer">Chất Tăng Cường Đối Thoại</string>
+    <string name="dolby_spk_virtualizer">Ảo Hóa Loa</string>
+    <string name="dolby_hp_virtualizer">Ảo Hóa Tai Nghe</string>
+    <string name="dolby_stereo_widening">Mở Rộng Âm Thanh Nổi</string>
+    <string name="dolby_volume_leveler">Sân Do Khối Lượng</string>
+    <string name="dolby_connect_headphones">Kết Nối Tai Nghe</string>
+    <string name="dolby_reset_profile">Đặt Lại Về Mặc Định</string>
+    <string name="dolby_reset_profile_toast">Đặt Lại Cài Đặt Thành Công Cho Cài Đặt %1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">Năng Động</string>
+    <string name="dolby_profile_movie">Bộ Phim</string>
+    <string name="dolby_profile_music">Âm Nhạc</string>
+    <string name="dolby_profile_custom">Phong Tục</string>
+
+    
+    <string name="dolby_preset_default">Phẳng</string>
+    <string name="dolby_preset_rock">Đá</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Nhạc Pop</string>
+    <string name="dolby_preset_classical">Cổ Điển</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Điện Tử</string>
+    <string name="dolby_preset_country">Quốc Gia</string>
+    <string name="dolby_preset_dance">Nhảy</string>
+    <string name="dolby_preset_metal">Kim Loại</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Nhận Được</string>
+    <string name="dolby_geq_preset">Đặt Trước</string>
+    <string name="dolby_geq_preset_name">Tên Đặt Trước</string>
+    <string name="dolby_geq_new_preset">Cài Đặt Trước Mới</string>
+    <string name="dolby_geq_rename_preset">Đổi Tên Đặt Trước</string>
+    <string name="dolby_geq_delete_preset">Xóa Cài Đặt Trước</string>
+    <string name="dolby_geq_delete_preset_prompt">Bạn Có Muốn Xóa Cài Đặt Trước Này Không?</string>
+    <string name="dolby_geq_reset_gains">Đặt Lại Lợi Nhuận</string>
+    <string name="dolby_geq_reset_gains_prompt">Bạn Có Muốn Đặt Lại Cài Đặt Trước Về Mặc Định Không?</string>
+    <string name="dolby_geq_preset_name_exists">Tên Đặt Trước Đã Tồn Tại!</string>
+    <string name="dolby_geq_preset_name_too_long">Tên Đặt Trước Là Quá Dài!</string>
+
+</resources>

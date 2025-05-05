@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Használja A Dolby Atmos -T</string>
+    <string name="dolby_profile_title">Válasszon Egy Profilt</string>
+    <string name="dolby_preset">Grafikus Kiegyenlítő</string>
+    <string name="dolby_off">Le</string>
+    <string name="dolby_on">On</string>
+    <string name="dolby_low">Alacsony</string>
+    <string name="dolby_medium">Közepes</string>
+    <string name="dolby_high">Magas</string>
+    <string name="dolby_max">Maximum</string>
+    <string name="dolby_unknown">Ismeretlen</string>
+    <string name="dolby_on_with_profile">On (%1 $ S)</string>
+    <string name="dolby_category_settings">Beállítások</string>
+    <string name="dolby_bass_enhancer">Basszusgátló</string>
+    <string name="dolby_dialogue_enhancer">Párbeszéd Fokozó</string>
+    <string name="dolby_spk_virtualizer">Hangszóró Virtualizációja</string>
+    <string name="dolby_hp_virtualizer">Fejhallgató -Virtualizáció</string>
+    <string name="dolby_stereo_widening">Sztereó Kiszélesedés</string>
+    <string name="dolby_volume_leveler">Hangerő -Szintező</string>
+    <string name="dolby_connect_headphones">Csatlakoztassa A Fejhallgatót</string>
+    <string name="dolby_reset_profile">Alapértelmezés Visszaállítása Az Alapértelmezésekre</string>
+    <string name="dolby_reset_profile_toast">A %1 $ S Profil Beállításainak Sikeres Visszaállítása</string>
+
+    
+    <string name="dolby_profile_dynamic">Dinamikus</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Zene</string>
+    <string name="dolby_profile_custom">Szokás</string>
+
+    
+    <string name="dolby_preset_default">Lakás</string>
+    <string name="dolby_preset_rock">Szikla</string>
+    <string name="dolby_preset_jazz">Dzsessz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Klasszikus</string>
+    <string name="dolby_preset_hiphop">Hip -Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elektronikus</string>
+    <string name="dolby_preset_country">Ország</string>
+    <string name="dolby_preset_dance">Tánc</string>
+    <string name="dolby_preset_metal">Fém</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Nyereség</string>
+    <string name="dolby_geq_preset">Előre Beállított</string>
+    <string name="dolby_geq_preset_name">Előre Beállított Név</string>
+    <string name="dolby_geq_new_preset">Új Előre Beállított</string>
+    <string name="dolby_geq_rename_preset">Átnevezze Az Előre Beállítást</string>
+    <string name="dolby_geq_delete_preset">Törölje Az Előre Beállított</string>
+    <string name="dolby_geq_delete_preset_prompt">Törölni Akarja Ezt Az Előre Beállított?</string>
+    <string name="dolby_geq_reset_gains">Visszaállítani A Nyereségeket</string>
+    <string name="dolby_geq_reset_gains_prompt">Szeretné Visszaállítani Az Előre Beállítást Alapértelmezett Értékre?</string>
+    <string name="dolby_geq_preset_name_exists">Az Előre Beállított Név Már Létezik!</string>
+    <string name="dolby_geq_preset_name_too_long">Az Előre Beállított Név Túl Hosszú!</string>
+
+</resources>

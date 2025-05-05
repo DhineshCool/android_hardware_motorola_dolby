@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">ドルビー・アトモス</string>
+    <string name="dolby_enable">Dolby Atmosを使用してください</string>
+    <string name="dolby_profile_title">プロファイルを選択します</string>
+    <string name="dolby_preset">グラフィックイコライザー</string>
+    <string name="dolby_off">オフ</string>
+    <string name="dolby_on">の上</string>
+    <string name="dolby_low">低い</string>
+    <string name="dolby_medium">中くらい</string>
+    <string name="dolby_high">高い</string>
+    <string name="dolby_max">マックス</string>
+    <string name="dolby_unknown">未知</string>
+    <string name="dolby_on_with_profile">On（％1 $ S）</string>
+    <string name="dolby_category_settings">設定</string>
+    <string name="dolby_bass_enhancer">低音エンハンサー</string>
+    <string name="dolby_dialogue_enhancer">ダイアログエンハンサー</string>
+    <string name="dolby_spk_virtualizer">スピーカー仮想化</string>
+    <string name="dolby_hp_virtualizer">ヘッドフォン仮想化</string>
+    <string name="dolby_stereo_widening">ステレオ拡大</string>
+    <string name="dolby_volume_leveler">ボリュームレベル</string>
+    <string name="dolby_connect_headphones">ヘッドフォンを接続します</string>
+    <string name="dolby_reset_profile">デフォルトにリセットします</string>
+    <string name="dolby_reset_profile_toast">％1 $ Sプロファイルの設定を正常にリセットします</string>
+
+    
+    <string name="dolby_profile_dynamic">動的</string>
+    <string name="dolby_profile_movie">映画</string>
+    <string name="dolby_profile_music">音楽</string>
+    <string name="dolby_profile_custom">カスタム</string>
+
+    
+    <string name="dolby_preset_default">フラット</string>
+    <string name="dolby_preset_rock">ロック</string>
+    <string name="dolby_preset_jazz">ジャズ</string>
+    <string name="dolby_preset_pop">ポップ</string>
+    <string name="dolby_preset_classical">クラシック</string>
+    <string name="dolby_preset_hiphop">ヒップホップ</string>
+    <string name="dolby_preset_blues">ブルース</string>
+    <string name="dolby_preset_electronic">電子</string>
+    <string name="dolby_preset_country">国</string>
+    <string name="dolby_preset_dance">ダンス</string>
+    <string name="dolby_preset_metal">金属</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">得</string>
+    <string name="dolby_geq_preset">プリセット</string>
+    <string name="dolby_geq_preset_name">プリセット名</string>
+    <string name="dolby_geq_new_preset">新しいプリセット</string>
+    <string name="dolby_geq_rename_preset">プリセットの名前を変更します</string>
+    <string name="dolby_geq_delete_preset">プリセットを削除します</string>
+    <string name="dolby_geq_delete_preset_prompt">このプリセットを削除しますか？</string>
+    <string name="dolby_geq_reset_gains">ゲインをリセットします</string>
+    <string name="dolby_geq_reset_gains_prompt">プリセットをデフォルトにリセットしますか？</string>
+    <string name="dolby_geq_preset_name_exists">プリセット名はすでに存在します！</string>
+    <string name="dolby_geq_preset_name_too_long">プリセット名が長すぎます！</string>
+
+</resources>

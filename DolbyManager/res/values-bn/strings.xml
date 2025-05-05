@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">ডলবি এটমোস</string>
+    <string name="dolby_enable">ডলবি এটমোস ব্যবহার করুন</string>
+    <string name="dolby_profile_title">একটি প্রোফাইল চয়ন করুন</string>
+    <string name="dolby_preset">গ্রাফিক ইকুয়ালাইজার</string>
+    <string name="dolby_off">বন্ধ</string>
+    <string name="dolby_on">চালু</string>
+    <string name="dolby_low">কম</string>
+    <string name="dolby_medium">মাধ্যম</string>
+    <string name="dolby_high">উচ্চ</string>
+    <string name="dolby_max">সর্বোচ্চ</string>
+    <string name="dolby_unknown">অজানা</string>
+    <string name="dolby_on_with_profile">অন ​​(%1 $ গুলি)</string>
+    <string name="dolby_category_settings">সেটিংস</string>
+    <string name="dolby_bass_enhancer">বাস বর্ধক</string>
+    <string name="dolby_dialogue_enhancer">কথোপকথন বর্ধক</string>
+    <string name="dolby_spk_virtualizer">স্পিকার ভার্চুয়ালাইজেশন</string>
+    <string name="dolby_hp_virtualizer">হেডফোন ভার্চুয়ালাইজেশন</string>
+    <string name="dolby_stereo_widening">স্টেরিও প্রশস্তকরণ</string>
+    <string name="dolby_volume_leveler">ভলিউম লেভেলার</string>
+    <string name="dolby_connect_headphones">হেডফোন সংযুক্ত করুন</string>
+    <string name="dolby_reset_profile">ডিফল্ট পুনরায় সেট করুন</string>
+    <string name="dolby_reset_profile_toast">%1 $ এস প্রোফাইলের জন্য সফলভাবে সেটিংস পুনরায় সেট করুন</string>
+
+    
+    <string name="dolby_profile_dynamic">গতিশীল</string>
+    <string name="dolby_profile_movie">মুভি</string>
+    <string name="dolby_profile_music">সংগীত</string>
+    <string name="dolby_profile_custom">কাস্টম</string>
+
+    
+    <string name="dolby_preset_default">ফ্ল্যাট</string>
+    <string name="dolby_preset_rock">রক</string>
+    <string name="dolby_preset_jazz">জাজ</string>
+    <string name="dolby_preset_pop">পপ</string>
+    <string name="dolby_preset_classical">শাস্ত্রীয়</string>
+    <string name="dolby_preset_hiphop">হিপ হপ</string>
+    <string name="dolby_preset_blues">ব্লুজ</string>
+    <string name="dolby_preset_electronic">বৈদ্যুতিন</string>
+    <string name="dolby_preset_country">দেশ</string>
+    <string name="dolby_preset_dance">নাচ</string>
+    <string name="dolby_preset_metal">ধাতু</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">লাভ</string>
+    <string name="dolby_geq_preset">প্রিসেট</string>
+    <string name="dolby_geq_preset_name">প্রিসেট নাম</string>
+    <string name="dolby_geq_new_preset">নতুন প্রিসেট</string>
+    <string name="dolby_geq_rename_preset">প্রিসেট নামকরণ</string>
+    <string name="dolby_geq_delete_preset">প্রিসেট মুছুন</string>
+    <string name="dolby_geq_delete_preset_prompt">আপনি কি এই প্রিসেটটি মুছতে চান?</string>
+    <string name="dolby_geq_reset_gains">রিসেট লাভ</string>
+    <string name="dolby_geq_reset_gains_prompt">আপনি কি প্রিসেটটি ডিফল্টে পুনরায় সেট করতে চান?</string>
+    <string name="dolby_geq_preset_name_exists">প্রিসেট নাম ইতিমধ্যে বিদ্যমান!</string>
+    <string name="dolby_geq_preset_name_too_long">প্রিসেটের নাম অনেক দীর্ঘ!</string>
+
+</resources>

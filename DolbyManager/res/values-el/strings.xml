@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Χρησιμοποιήστε Το Dolby Atmos</string>
+    <string name="dolby_profile_title">Επιλέξτε Ένα Προφίλ</string>
+    <string name="dolby_preset">Γραφικός Ισοσταθμιστής</string>
+    <string name="dolby_off">Μακριά Από</string>
+    <string name="dolby_on">Επί</string>
+    <string name="dolby_low">Χαμηλός</string>
+    <string name="dolby_medium">Μέσον</string>
+    <string name="dolby_high">Ψηλά</string>
+    <string name="dolby_max">Μέγιστος</string>
+    <string name="dolby_unknown">Αγνωστος</string>
+    <string name="dolby_on_with_profile">On (%1 $ S)</string>
+    <string name="dolby_category_settings">Ρυθμίσεις</string>
+    <string name="dolby_bass_enhancer">Ενισχυτής Μπάσων</string>
+    <string name="dolby_dialogue_enhancer">Ενισχυτής Διαλόγου</string>
+    <string name="dolby_spk_virtualizer">Εικονικοποίηση Ομιλητών</string>
+    <string name="dolby_hp_virtualizer">Εικονικοποίηση Ακουστικών</string>
+    <string name="dolby_stereo_widening">Στερεοφωνική Διεύρυνση</string>
+    <string name="dolby_volume_leveler">Ισοπαλία</string>
+    <string name="dolby_connect_headphones">Συνδέστε Τα Ακουστικά</string>
+    <string name="dolby_reset_profile">Επαναφορά Σε Προεπιλογές</string>
+    <string name="dolby_reset_profile_toast">Επαναφέρετε Με Επιτυχία Τις Ρυθμίσεις Για Το Προφίλ %1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">Δυναμικός</string>
+    <string name="dolby_profile_movie">Ταινία</string>
+    <string name="dolby_profile_music">Μουσική</string>
+    <string name="dolby_profile_custom">Εθιμο</string>
+
+    
+    <string name="dolby_preset_default">Επίπεδα</string>
+    <string name="dolby_preset_rock">Βράχος</string>
+    <string name="dolby_preset_jazz">Τζαζ</string>
+    <string name="dolby_preset_pop">Κρότος</string>
+    <string name="dolby_preset_classical">Κλασσικός</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Ακεφιά</string>
+    <string name="dolby_preset_electronic">Ηλεκτρονικός</string>
+    <string name="dolby_preset_country">Χώρα</string>
+    <string name="dolby_preset_dance">Χορός</string>
+    <string name="dolby_preset_metal">Μέταλλο</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Κέρδος</string>
+    <string name="dolby_geq_preset">Προκαθορισμένος</string>
+    <string name="dolby_geq_preset_name">Προκαθορισμένο Όνομα</string>
+    <string name="dolby_geq_new_preset">Νέος Προκαθορισμένος</string>
+    <string name="dolby_geq_rename_preset">Μετονομάστε Προκαθορισμένη</string>
+    <string name="dolby_geq_delete_preset">Διαγραφή Προκαθορισμένων</string>
+    <string name="dolby_geq_delete_preset_prompt">Θέλετε Να Διαγράψετε Αυτήν Την Προεπιλογή;</string>
+    <string name="dolby_geq_reset_gains">Επαναφορά Κερδών</string>
+    <string name="dolby_geq_reset_gains_prompt">Θέλετε Να Επαναφέρετε Την Προεπιλογή;</string>
+    <string name="dolby_geq_preset_name_exists">Το Προκαθορισμένο Όνομα Υπάρχει Ήδη!</string>
+    <string name="dolby_geq_preset_name_too_long">Το Προκαθορισμένο Όνομα Είναι Πολύ Μεγάλο!</string>
+
+</resources>

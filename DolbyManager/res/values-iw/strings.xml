@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">דולבי אטמוס</string>
+    <string name="dolby_enable">השתמש ב- Dolby Atmos</string>
+    <string name="dolby_profile_title">בחר פרופיל</string>
+    <string name="dolby_preset">אקולייזר גרפי</string>
+    <string name="dolby_off">כבוי</string>
+    <string name="dolby_on">עַל</string>
+    <string name="dolby_low">נָמוּך</string>
+    <string name="dolby_medium">בֵּינוֹנִי</string>
+    <string name="dolby_high">גָבוֹהַ</string>
+    <string name="dolby_max">מקס</string>
+    <string name="dolby_unknown">לֹא יְדוּעַ</string>
+    <string name="dolby_on_with_profile">על (%1 $ S)</string>
+    <string name="dolby_category_settings">הגדרות</string>
+    <string name="dolby_bass_enhancer">משפר בס</string>
+    <string name="dolby_dialogue_enhancer">משפר דיאלוג</string>
+    <string name="dolby_spk_virtualizer">וירטואליזציה של דובר</string>
+    <string name="dolby_hp_virtualizer">וירטואליזציה של אוזניות</string>
+    <string name="dolby_stereo_widening">הרחבת סטריאו</string>
+    <string name="dolby_volume_leveler">מפלס נפח</string>
+    <string name="dolby_connect_headphones">חבר אוזניות</string>
+    <string name="dolby_reset_profile">אפס לברירות מחדל</string>
+    <string name="dolby_reset_profile_toast">אפס בהצלחה הגדרות לפרופיל %1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">דִינָמִי</string>
+    <string name="dolby_profile_movie">סֶרֶט</string>
+    <string name="dolby_profile_music">מוּסִיקָה</string>
+    <string name="dolby_profile_custom">מִנְהָג</string>
+
+    
+    <string name="dolby_preset_default">שָׁטוּחַ</string>
+    <string name="dolby_preset_rock">רוֹק</string>
+    <string name="dolby_preset_jazz">ג'ֶז</string>
+    <string name="dolby_preset_pop">פּוֹפּ</string>
+    <string name="dolby_preset_classical">קלַאסִי</string>
+    <string name="dolby_preset_hiphop">היפ הופ</string>
+    <string name="dolby_preset_blues">בלוז</string>
+    <string name="dolby_preset_electronic">אֶלֶקטרוֹנִי</string>
+    <string name="dolby_preset_country">מְדִינָה</string>
+    <string name="dolby_preset_dance">לִרְקוֹד</string>
+    <string name="dolby_preset_metal">מַתֶכֶת</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">לְהַשִׂיג</string>
+    <string name="dolby_geq_preset">מראש מראש</string>
+    <string name="dolby_geq_preset_name">שם מראש</string>
+    <string name="dolby_geq_new_preset">מוגדר מראש חדש</string>
+    <string name="dolby_geq_rename_preset">שנה שם מראש</string>
+    <string name="dolby_geq_delete_preset">מחק מראש מראש</string>
+    <string name="dolby_geq_delete_preset_prompt">האם אתה רוצה למחוק מראש את מראש?</string>
+    <string name="dolby_geq_reset_gains">אפס רווחים</string>
+    <string name="dolby_geq_reset_gains_prompt">האם אתה רוצה לאפס את מראש המוגד כברירת מחדל?</string>
+    <string name="dolby_geq_preset_name_exists">שם מראש קבע כבר קיים!</string>
+    <string name="dolby_geq_preset_name_too_long">השם מראש ארוך מדי!</string>
+
+</resources>

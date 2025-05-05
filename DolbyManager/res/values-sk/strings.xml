@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Používajte Dolby Atmos</string>
+    <string name="dolby_profile_title">Vyberte Profil</string>
+    <string name="dolby_preset">Grafický Ekvalizér</string>
+    <string name="dolby_off">Vypnutý</string>
+    <string name="dolby_on">Na</string>
+    <string name="dolby_low">Nízky</string>
+    <string name="dolby_medium">Médium</string>
+    <string name="dolby_high">Vysoký</string>
+    <string name="dolby_max">Maximálny</string>
+    <string name="dolby_unknown">Neznámy</string>
+    <string name="dolby_on_with_profile">Na (%1 $ S)</string>
+    <string name="dolby_category_settings">Nastavenia</string>
+    <string name="dolby_bass_enhancer">Zosilňovač Basov</string>
+    <string name="dolby_dialogue_enhancer">Zosilňovač Dialógu</string>
+    <string name="dolby_spk_virtualizer">Virtualizácia Reproduktorov</string>
+    <string name="dolby_hp_virtualizer">Virtualizácia Slúchadiel</string>
+    <string name="dolby_stereo_widening">Rozširovanie Stereo</string>
+    <string name="dolby_volume_leveler">Vyrovnanie Objemu</string>
+    <string name="dolby_connect_headphones">Pripojte Slúchadlá</string>
+    <string name="dolby_reset_profile">Reset Na Predvolené Hodnoty</string>
+    <string name="dolby_reset_profile_toast">Úspešne Resetujte Nastavenia Pre Profil %1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">Dynamika</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Hudba</string>
+    <string name="dolby_profile_custom">Zvyk</string>
+
+    
+    <string name="dolby_preset_default">Plochý</string>
+    <string name="dolby_preset_rock">Húpací</string>
+    <string name="dolby_preset_jazz">Džez</string>
+    <string name="dolby_preset_pop">Popovávať</string>
+    <string name="dolby_preset_classical">Klasický</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elektronický</string>
+    <string name="dolby_preset_country">Krajina</string>
+    <string name="dolby_preset_dance">Tancovať</string>
+    <string name="dolby_preset_metal">Kov</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Zisk</string>
+    <string name="dolby_geq_preset">Vopred</string>
+    <string name="dolby_geq_preset_name">Predvolený Názov</string>
+    <string name="dolby_geq_new_preset">Nový Predvolený</string>
+    <string name="dolby_geq_rename_preset">Premenovať Predvolenú Predvoľbu</string>
+    <string name="dolby_geq_delete_preset">Vymazať Predvoľbu</string>
+    <string name="dolby_geq_delete_preset_prompt">Chcete Odstrániť Túto Predvoľbu?</string>
+    <string name="dolby_geq_reset_gains">Vynulovanie Ziskov</string>
+    <string name="dolby_geq_reset_gains_prompt">Chcete Resetovať Predvolenú Predvolenú Predvolenú Črtu?</string>
+    <string name="dolby_geq_preset_name_exists">Predvolené Meno Už Existuje!</string>
+    <string name="dolby_geq_preset_name_too_long">Predvolené Meno Je Príliš Dlhé!</string>
+
+</resources>

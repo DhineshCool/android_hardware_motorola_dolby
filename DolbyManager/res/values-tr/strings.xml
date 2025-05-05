@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Dolby Atmos'U Kullanın</string>
+    <string name="dolby_profile_title">Bir Profil Seçin</string>
+    <string name="dolby_preset">Grafik Ekolayzer</string>
+    <string name="dolby_off">Kapalı</string>
+    <string name="dolby_on">Açık</string>
+    <string name="dolby_low">Düşük</string>
+    <string name="dolby_medium">Orta</string>
+    <string name="dolby_high">Yüksek</string>
+    <string name="dolby_max">Maksimum</string>
+    <string name="dolby_unknown">Bilinmeyen</string>
+    <string name="dolby_on_with_profile">On (%1 $ S)</string>
+    <string name="dolby_category_settings">Ayarlar</string>
+    <string name="dolby_bass_enhancer">Bas Arttırıcı</string>
+    <string name="dolby_dialogue_enhancer">Diyalog Arttırıcı</string>
+    <string name="dolby_spk_virtualizer">Konuşmacı Sanallaştırma</string>
+    <string name="dolby_hp_virtualizer">Kulaklık Sanallaştırma</string>
+    <string name="dolby_stereo_widening">Stereo Genişleme</string>
+    <string name="dolby_volume_leveler">Hacim Seviyesi</string>
+    <string name="dolby_connect_headphones">Kulaklık Bağlayın</string>
+    <string name="dolby_reset_profile">Varsayılanlara Sıfırlayın</string>
+    <string name="dolby_reset_profile_toast">%1 $ S Profil Için Ayarları Başarıyla Sıfırlayın</string>
+
+    
+    <string name="dolby_profile_dynamic">Dinamik</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Müzik</string>
+    <string name="dolby_profile_custom">Gelenek</string>
+
+    
+    <string name="dolby_preset_default">Düz</string>
+    <string name="dolby_preset_rock">Kaynak</string>
+    <string name="dolby_preset_jazz">Caz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Klasik</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Mavimsi</string>
+    <string name="dolby_preset_electronic">Elektronik</string>
+    <string name="dolby_preset_country">Ülke</string>
+    <string name="dolby_preset_dance">Dans</string>
+    <string name="dolby_preset_metal">Metal</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Kazanmak</string>
+    <string name="dolby_geq_preset">Önceden Belirlemek</string>
+    <string name="dolby_geq_preset_name">Önceden Ayarlanmış Isim</string>
+    <string name="dolby_geq_new_preset">Yeni Ön Ayar</string>
+    <string name="dolby_geq_rename_preset">Ön Ayar'I Yeniden Adlandır</string>
+    <string name="dolby_geq_delete_preset">Önceden Ayarlanmış</string>
+    <string name="dolby_geq_delete_preset_prompt">Bu Ön Ayarı Silmek Istiyor Musunuz?</string>
+    <string name="dolby_geq_reset_gains">Kazançları Sıfırla</string>
+    <string name="dolby_geq_reset_gains_prompt">Ön Ayarı Varsayılan Olarak Sıfırlamak Istiyor Musunuz?</string>
+    <string name="dolby_geq_preset_name_exists">Önceden Ayarlanmış Adı Zaten Var!</string>
+    <string name="dolby_geq_preset_name_too_long">Ön Ayarlı Isim Çok Uzun!</string>
+
+</resources>

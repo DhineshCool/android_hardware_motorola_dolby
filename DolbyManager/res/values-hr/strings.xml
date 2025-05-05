@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Koristite Dolby Atmos</string>
+    <string name="dolby_profile_title">Odaberite Profil</string>
+    <string name="dolby_preset">Grafički Izjednačivač</string>
+    <string name="dolby_off">Izvan</string>
+    <string name="dolby_on">Na</string>
+    <string name="dolby_low">Nizak</string>
+    <string name="dolby_medium">Srednji</string>
+    <string name="dolby_high">Visok</string>
+    <string name="dolby_max">Maksimum</string>
+    <string name="dolby_unknown">Nepoznat</string>
+    <string name="dolby_on_with_profile">Na (%1 $ S)</string>
+    <string name="dolby_category_settings">Postavke</string>
+    <string name="dolby_bass_enhancer">Pojačivač Basa</string>
+    <string name="dolby_dialogue_enhancer">Pojačivač Dijaloga</string>
+    <string name="dolby_spk_virtualizer">Virtualizacija Zvučnika</string>
+    <string name="dolby_hp_virtualizer">Virtualizacija Slušalica</string>
+    <string name="dolby_stereo_widening">Širenje Stereo</string>
+    <string name="dolby_volume_leveler">Glasnoća</string>
+    <string name="dolby_connect_headphones">Spojite Slušalice</string>
+    <string name="dolby_reset_profile">Ponovno Postavite Na Zadane Vrijednosti</string>
+    <string name="dolby_reset_profile_toast">Uspješno Resetirajte Postavke Za %1 $ S Profil</string>
+
+    
+    <string name="dolby_profile_dynamic">Dinamičan</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Glazba</string>
+    <string name="dolby_profile_custom">Običaj</string>
+
+    
+    <string name="dolby_preset_default">Ravan</string>
+    <string name="dolby_preset_rock">Stijena</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Klasičan</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Bluz</string>
+    <string name="dolby_preset_electronic">Elektronički</string>
+    <string name="dolby_preset_country">Zemlja</string>
+    <string name="dolby_preset_dance">Ples</string>
+    <string name="dolby_preset_metal">Metal</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Dobiti</string>
+    <string name="dolby_geq_preset">Postavljen</string>
+    <string name="dolby_geq_preset_name">Unaprijed Postavljeno Ime</string>
+    <string name="dolby_geq_new_preset">Nova Unaprijed Postavljena</string>
+    <string name="dolby_geq_rename_preset">Preimenovati Unaprijed</string>
+    <string name="dolby_geq_delete_preset">Izbriši Unaprijed Postavljeno</string>
+    <string name="dolby_geq_delete_preset_prompt">Želite Li Izbrisati Ovu Unaprijed Postavljenu?</string>
+    <string name="dolby_geq_reset_gains">Poništavanje Dobitaka</string>
+    <string name="dolby_geq_reset_gains_prompt">Želite Li Resetirati Unaprijed Postavljenu Na Zadane Postavke?</string>
+    <string name="dolby_geq_preset_name_exists">Unaprijed Postavljeno Ime Već Postoji!</string>
+    <string name="dolby_geq_preset_name_too_long">Unaprijed Postavljeno Ime Je Predugo!</string>
+
+</resources>

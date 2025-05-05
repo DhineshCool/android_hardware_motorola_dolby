@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Выкарыстоўвайце Dolby Atmos</string>
+    <string name="dolby_profile_title">Выберыце Профіль</string>
+    <string name="dolby_preset">Графічны Эквалайзер</string>
+    <string name="dolby_off">Выключаны</string>
+    <string name="dolby_on">На</string>
+    <string name="dolby_low">Нізкі</string>
+    <string name="dolby_medium">Сярэдні</string>
+    <string name="dolby_high">Высокі</string>
+    <string name="dolby_max">Максімум</string>
+    <string name="dolby_unknown">Невядомы</string>
+    <string name="dolby_on_with_profile">На (%1 $ S)</string>
+    <string name="dolby_category_settings">Налады</string>
+    <string name="dolby_bass_enhancer">Басавы Ўзмацняльнік</string>
+    <string name="dolby_dialogue_enhancer">Эмхансер Дыялогу</string>
+    <string name="dolby_spk_virtualizer">Віртуалізацыя Дынамікаў</string>
+    <string name="dolby_hp_virtualizer">Віртуалізацыя Навушнікаў</string>
+    <string name="dolby_stereo_widening">Стэрэасістэма Пашырэння</string>
+    <string name="dolby_volume_leveler">Узроўня Аб'Ёму</string>
+    <string name="dolby_connect_headphones">Падключыце Навушнікі</string>
+    <string name="dolby_reset_profile">Скіньце Па Змаўчанні</string>
+    <string name="dolby_reset_profile_toast">Паспяхова Скіньце Налады Для Профілю %1 $</string>
+
+    
+    <string name="dolby_profile_dynamic">Дынамічны</string>
+    <string name="dolby_profile_movie">Фільм</string>
+    <string name="dolby_profile_music">Музыка</string>
+    <string name="dolby_profile_custom">Звычай</string>
+
+    
+    <string name="dolby_preset_default">Кватэра</string>
+    <string name="dolby_preset_rock">Скала</string>
+    <string name="dolby_preset_jazz">Джаз</string>
+    <string name="dolby_preset_pop">Поп</string>
+    <string name="dolby_preset_classical">Класічны</string>
+    <string name="dolby_preset_hiphop">Хіп -Хоп</string>
+    <string name="dolby_preset_blues">Блюз</string>
+    <string name="dolby_preset_electronic">Электронны</string>
+    <string name="dolby_preset_country">Краіна</string>
+    <string name="dolby_preset_dance">Танчыць</string>
+    <string name="dolby_preset_metal">Метал</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Прыбытак</string>
+    <string name="dolby_geq_preset">Прадубіста</string>
+    <string name="dolby_geq_preset_name">Названае Імя</string>
+    <string name="dolby_geq_new_preset">Новы Прадусталяваны</string>
+    <string name="dolby_geq_rename_preset">Перайменаваць Зададзеную</string>
+    <string name="dolby_geq_delete_preset">Выдаліць Зададзеную</string>
+    <string name="dolby_geq_delete_preset_prompt">Вы Хочаце Выдаліць Гэтую Зададзеную?</string>
+    <string name="dolby_geq_reset_gains">Скінуць Прыбытак</string>
+    <string name="dolby_geq_reset_gains_prompt">Вы Хочаце Скінуць Зададзеную Задачу Па Змаўчанні?</string>
+    <string name="dolby_geq_preset_name_exists">Працаванае Імя Ўжо Існуе!</string>
+    <string name="dolby_geq_preset_name_too_long">Працаванае Імя Занадта Доўгае!</string>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Dolby Atmosundan Istifadə Edin</string>
+    <string name="dolby_profile_title">Profil Seçin</string>
+    <string name="dolby_preset">Qrafik Ekvalayzeri</string>
+    <string name="dolby_off">Sönük</string>
+    <string name="dolby_on">Yan</string>
+    <string name="dolby_low">Alçaq</string>
+    <string name="dolby_medium">Mühit</string>
+    <string name="dolby_high">Yüksək</string>
+    <string name="dolby_max">Maksimum</string>
+    <string name="dolby_unknown">Naməlum</string>
+    <string name="dolby_on_with_profile">On (% 1 $ S)</string>
+    <string name="dolby_category_settings">Parametrlər</string>
+    <string name="dolby_bass_enhancer">Bascikator</string>
+    <string name="dolby_dialogue_enhancer">Dialoq Gücləndiricisi</string>
+    <string name="dolby_spk_virtualizer">Natiq Virtualizasiyası</string>
+    <string name="dolby_hp_virtualizer">Qulaqlıq Virtualizasiyası</string>
+    <string name="dolby_stereo_widening">Stereo Genişlənmə</string>
+    <string name="dolby_volume_leveler">Səs Səviyyəsi</string>
+    <string name="dolby_connect_headphones">Qulaqlıqları Qoşun</string>
+    <string name="dolby_reset_profile">Defoltlara Yenidən Qurun</string>
+    <string name="dolby_reset_profile_toast">% 1 $ S Profilini Müvəffəqiyyətlə Yenidən Qurun</string>
+
+    
+    <string name="dolby_profile_dynamic">Dinamik</string>
+    <string name="dolby_profile_movie">Kino</string>
+    <string name="dolby_profile_music">Musiqi</string>
+    <string name="dolby_profile_custom">Adlı</string>
+
+    
+    <string name="dolby_preset_default">Düz</string>
+    <string name="dolby_preset_rock">Qaya</string>
+    <string name="dolby_preset_jazz">Caz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Klassik</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elektron</string>
+    <string name="dolby_preset_country">Ölkə</string>
+    <string name="dolby_preset_dance">Rəqs Etmək</string>
+    <string name="dolby_preset_metal">Metal</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Qazanc</string>
+    <string name="dolby_geq_preset">Qabaqlayıcı</string>
+    <string name="dolby_geq_preset_name">Əvvəlcədən</string>
+    <string name="dolby_geq_new_preset">Yeni Əvvəlcədən Quruluş</string>
+    <string name="dolby_geq_rename_preset">Adını Dəyişdirmək</string>
+    <string name="dolby_geq_delete_preset">Əvvəlcədən Silin</string>
+    <string name="dolby_geq_delete_preset_prompt">Bu Əvvəlcədən Seçmək Istəyirsiniz?</string>
+    <string name="dolby_geq_reset_gains">Qazancları Yenidən Qurun</string>
+    <string name="dolby_geq_reset_gains_prompt">Əvvəlcədən Seçilmək Istəyərsiniz?</string>
+    <string name="dolby_geq_preset_name_exists">Əvvəlcədən Təyin Edilmiş Ad Artıq Mövcuddur!</string>
+    <string name="dolby_geq_preset_name_too_long">Əvvəlcədən Təyin Edilmiş Ad Çox Uzundur!</string>
+
+</resources>

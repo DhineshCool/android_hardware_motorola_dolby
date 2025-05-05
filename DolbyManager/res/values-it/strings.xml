@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Usa Dolby Atmos</string>
+    <string name="dolby_profile_title">Scegli Un Profilo</string>
+    <string name="dolby_preset">Equalizzatore Grafico</string>
+    <string name="dolby_off">Spento</string>
+    <string name="dolby_on">Su</string>
+    <string name="dolby_low">Basso</string>
+    <string name="dolby_medium">Medio</string>
+    <string name="dolby_high">Alto</string>
+    <string name="dolby_max">Max</string>
+    <string name="dolby_unknown">Sconosciuto</string>
+    <string name="dolby_on_with_profile">Su (%1 $ S)</string>
+    <string name="dolby_category_settings">Impostazioni</string>
+    <string name="dolby_bass_enhancer">Bass Espiter</string>
+    <string name="dolby_dialogue_enhancer">Dialogo Potenziatore</string>
+    <string name="dolby_spk_virtualizer">Virtualizzazione Dell'Altoparlante</string>
+    <string name="dolby_hp_virtualizer">Virtualizzazione Delle Cuffie</string>
+    <string name="dolby_stereo_widening">Stereo Che Si Allarga</string>
+    <string name="dolby_volume_leveler">Livellatore Di Volume</string>
+    <string name="dolby_connect_headphones">Collegare Le Cuffie</string>
+    <string name="dolby_reset_profile">Ripristina Le Impostazioni Predefinite</string>
+    <string name="dolby_reset_profile_toast">Ripristina Correttamente Le Impostazioni Per Il Profilo %1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">Dinamico</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Musica</string>
+    <string name="dolby_profile_custom">Costume</string>
+
+    
+    <string name="dolby_preset_default">Piatto</string>
+    <string name="dolby_preset_rock">Roccia</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Classico</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elettronico</string>
+    <string name="dolby_preset_country">Paese</string>
+    <string name="dolby_preset_dance">Ballare</string>
+    <string name="dolby_preset_metal">Metallo</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Guadagno</string>
+    <string name="dolby_geq_preset">Preimpostazione</string>
+    <string name="dolby_geq_preset_name">Nome Preimpostazione</string>
+    <string name="dolby_geq_new_preset">Nuovo Preimpostazione</string>
+    <string name="dolby_geq_rename_preset">Rinominare Preimpostazione</string>
+    <string name="dolby_geq_delete_preset">Elimina Preimpostazione</string>
+    <string name="dolby_geq_delete_preset_prompt">Vuoi Eliminare Questo Preimpostazione?</string>
+    <string name="dolby_geq_reset_gains">Ripristinare I Guadagni</string>
+    <string name="dolby_geq_reset_gains_prompt">Vuoi Reimpostare Il Preimpostazione Predefinita?</string>
+    <string name="dolby_geq_preset_name_exists">Il Nome Preimpostato Esiste Già!</string>
+    <string name="dolby_geq_preset_name_too_long">Il Nome Preimpostato È Troppo Lungo!</string>
+
+</resources>

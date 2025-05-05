@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Gebruik Dolby Atmos</string>
+    <string name="dolby_profile_title">Kies Een Profiel</string>
+    <string name="dolby_preset">Grafische Gelijkmaker</string>
+    <string name="dolby_off">Uit</string>
+    <string name="dolby_on">Op</string>
+    <string name="dolby_low">Laag</string>
+    <string name="dolby_medium">Medium</string>
+    <string name="dolby_high">Hoog</string>
+    <string name="dolby_max">Maximaal</string>
+    <string name="dolby_unknown">Onbekend</string>
+    <string name="dolby_on_with_profile">Op (%1 $ S)</string>
+    <string name="dolby_category_settings">Instellingen</string>
+    <string name="dolby_bass_enhancer">Basverbeteraar</string>
+    <string name="dolby_dialogue_enhancer">Dialoogverbeteraar</string>
+    <string name="dolby_spk_virtualizer">Spreker Virtualisatie</string>
+    <string name="dolby_hp_virtualizer">Virtualisatie Van De Hoofdtelefoon</string>
+    <string name="dolby_stereo_widening">Stereo -Verbreding</string>
+    <string name="dolby_volume_leveler">Volumeliveau</string>
+    <string name="dolby_connect_headphones">Verbind Hoofdtelefoon</string>
+    <string name="dolby_reset_profile">Reset Naar Standaardwaarden</string>
+    <string name="dolby_reset_profile_toast">Reset Met Succes De Instellingen Voor %1 $ S Profiel</string>
+
+    
+    <string name="dolby_profile_dynamic">Dynamisch</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Muziek</string>
+    <string name="dolby_profile_custom">Aangepast</string>
+
+    
+    <string name="dolby_preset_default">Vlak</string>
+    <string name="dolby_preset_rock">Steen</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Knal</string>
+    <string name="dolby_preset_classical">Klassiek</string>
+    <string name="dolby_preset_hiphop">Heuphop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elektronisch</string>
+    <string name="dolby_preset_country">Land</string>
+    <string name="dolby_preset_dance">Dans</string>
+    <string name="dolby_preset_metal">Metaal</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Verdienen</string>
+    <string name="dolby_geq_preset">Vooraf Ingesteld</string>
+    <string name="dolby_geq_preset_name">Voorzetnaam</string>
+    <string name="dolby_geq_new_preset">Nieuwe Preset</string>
+    <string name="dolby_geq_rename_preset">Hernoemde Voorinstelling</string>
+    <string name="dolby_geq_delete_preset">Verwijder Preset</string>
+    <string name="dolby_geq_delete_preset_prompt">Wilt U Deze Preset Verwijderen?</string>
+    <string name="dolby_geq_reset_gains">Winsten Resetten</string>
+    <string name="dolby_geq_reset_gains_prompt">Wilt U De Preset Opnieuw Instellen Naar Standaard?</string>
+    <string name="dolby_geq_preset_name_exists">De Voorinstelling Bestaat Al!</string>
+    <string name="dolby_geq_preset_name_too_long">De Vooraf Ingestelde Naam Is Te Lang!</string>
+
+</resources>

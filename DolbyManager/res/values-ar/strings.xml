@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">استخدم Dolby Atmos</string>
+    <string name="dolby_profile_title">اختر ملف تعريف</string>
+    <string name="dolby_preset">معادل الرسوم</string>
+    <string name="dolby_off">عن</string>
+    <string name="dolby_on">على</string>
+    <string name="dolby_low">قليل</string>
+    <string name="dolby_medium">واسطة</string>
+    <string name="dolby_high">عالي</string>
+    <string name="dolby_max">الأعلى</string>
+    <string name="dolby_unknown">مجهول</string>
+    <string name="dolby_on_with_profile">على (٪ 1 $ S)</string>
+    <string name="dolby_category_settings">إعدادات</string>
+    <string name="dolby_bass_enhancer">محسن باس</string>
+    <string name="dolby_dialogue_enhancer">محسن الحوار</string>
+    <string name="dolby_spk_virtualizer">المحاكاة الافتراضية المتحدث</string>
+    <string name="dolby_hp_virtualizer">سماعة الرأس الافتراضية</string>
+    <string name="dolby_stereo_widening">توسيع ستيريو</string>
+    <string name="dolby_volume_leveler">مستوى الصوت</string>
+    <string name="dolby_connect_headphones">قم بتوصيل سماعات الرأس</string>
+    <string name="dolby_reset_profile">إعادة ضبط على الافتراضات</string>
+    <string name="dolby_reset_profile_toast">إعادة تعيين الإعدادات بنجاح لنسبة ٪ 1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">متحرك</string>
+    <string name="dolby_profile_movie">فيلم</string>
+    <string name="dolby_profile_music">موسيقى</string>
+    <string name="dolby_profile_custom">مخصص</string>
+
+    
+    <string name="dolby_preset_default">مستوي</string>
+    <string name="dolby_preset_rock">صخر</string>
+    <string name="dolby_preset_jazz">موسيقى الجاز</string>
+    <string name="dolby_preset_pop">البوب</string>
+    <string name="dolby_preset_classical">كلاسيكي</string>
+    <string name="dolby_preset_hiphop">الهيب هوب</string>
+    <string name="dolby_preset_blues">البلوز</string>
+    <string name="dolby_preset_electronic">إلكتروني</string>
+    <string name="dolby_preset_country">دولة</string>
+    <string name="dolby_preset_dance">الرقص</string>
+    <string name="dolby_preset_metal">معدن</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">يكسب</string>
+    <string name="dolby_geq_preset">مسبقًا</string>
+    <string name="dolby_geq_preset_name">الاسم المسبق</string>
+    <string name="dolby_geq_new_preset">مسبق جديد</string>
+    <string name="dolby_geq_rename_preset">إعادة تسمية الإعداد المسبق</string>
+    <string name="dolby_geq_delete_preset">حذف الإعداد المسبق</string>
+    <string name="dolby_geq_delete_preset_prompt">هل تريد حذف هذا الإعداد المسبق؟</string>
+    <string name="dolby_geq_reset_gains">إعادة ضبط المكاسب</string>
+    <string name="dolby_geq_reset_gains_prompt">هل تريد إعادة تعيين الإعداد المسبق إلى الافتراضي؟</string>
+    <string name="dolby_geq_preset_name_exists">الاسم المسبق موجود بالفعل!</string>
+    <string name="dolby_geq_preset_name_too_long">الاسم المسبق طويل جدًا!</string>
+
+</resources>

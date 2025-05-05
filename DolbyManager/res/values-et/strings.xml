@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Kasutage Dolby Atmos</string>
+    <string name="dolby_profile_title">Valige Profiil</string>
+    <string name="dolby_preset">Graafiline Ekvalaiser</string>
+    <string name="dolby_off">Ära</string>
+    <string name="dolby_on">Edasi</string>
+    <string name="dolby_low">Madal</string>
+    <string name="dolby_medium">Vahend</string>
+    <string name="dolby_high">Kõrge</string>
+    <string name="dolby_max">Maksimaalne</string>
+    <string name="dolby_unknown">Teadmata</string>
+    <string name="dolby_on_with_profile">Sisse (%1 $ S)</string>
+    <string name="dolby_category_settings">Sätted</string>
+    <string name="dolby_bass_enhancer">Bassi Tugevdaja</string>
+    <string name="dolby_dialogue_enhancer">Dialoogi Suurendaja</string>
+    <string name="dolby_spk_virtualizer">Esinejate Virtualiseerimine</string>
+    <string name="dolby_hp_virtualizer">Kõrvaklappide Virtualiseerimine</string>
+    <string name="dolby_stereo_widening">Stereo Laienemine</string>
+    <string name="dolby_volume_leveler">Helitugevuse Tasemel</string>
+    <string name="dolby_connect_headphones">Ühendage Kõrvaklapid</string>
+    <string name="dolby_reset_profile">Lähtestage Vaikeseadetele</string>
+    <string name="dolby_reset_profile_toast">Lähtestage Edukalt Seaded %1 $ S Profiili Jaoks</string>
+
+    
+    <string name="dolby_profile_dynamic">Dünaamiline</string>
+    <string name="dolby_profile_movie">Film</string>
+    <string name="dolby_profile_music">Muusika</string>
+    <string name="dolby_profile_custom">Kohandatud</string>
+
+    
+    <string name="dolby_preset_default">Lame</string>
+    <string name="dolby_preset_rock">Kivim</string>
+    <string name="dolby_preset_jazz">Džäss</string>
+    <string name="dolby_preset_pop">Popp</string>
+    <string name="dolby_preset_classical">Klassikaline</string>
+    <string name="dolby_preset_hiphop">Hiphop</string>
+    <string name="dolby_preset_blues">Bluusi</string>
+    <string name="dolby_preset_electronic">Elektrooniline</string>
+    <string name="dolby_preset_country">Riik</string>
+    <string name="dolby_preset_dance">Tants</string>
+    <string name="dolby_preset_metal">Metall</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Kasu Saama</string>
+    <string name="dolby_geq_preset">Eelseade</string>
+    <string name="dolby_geq_preset_name">Eelnevalt Nimetus</string>
+    <string name="dolby_geq_new_preset">Uus Eelseade</string>
+    <string name="dolby_geq_rename_preset">Nimetage Eelseade Ümber</string>
+    <string name="dolby_geq_delete_preset">Eelseade Kustutama</string>
+    <string name="dolby_geq_delete_preset_prompt">Kas Soovite Selle Eelseadet Kustutada?</string>
+    <string name="dolby_geq_reset_gains">Lähtestage Kasum</string>
+    <string name="dolby_geq_reset_gains_prompt">Kas Soovite Eelseadet Vaikimisi Lähtestada?</string>
+    <string name="dolby_geq_preset_name_exists">Eelseadistatud Nimi On Juba Olemas!</string>
+    <string name="dolby_geq_preset_name_too_long">Eelseadistatud Nimi On Liiga Pikk!</string>
+
+</resources>

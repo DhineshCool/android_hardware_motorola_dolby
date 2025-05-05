@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Utilitzeu Dolby Atmos</string>
+    <string name="dolby_profile_title">Trieu Un Perfil</string>
+    <string name="dolby_preset">Equalitzador Gràfic</string>
+    <string name="dolby_off">Apagada</string>
+    <string name="dolby_on">Al Damunt De</string>
+    <string name="dolby_low">Baix</string>
+    <string name="dolby_medium">Mitjà</string>
+    <string name="dolby_high">Alt</string>
+    <string name="dolby_max">Màxim</string>
+    <string name="dolby_unknown">Desconeguda</string>
+    <string name="dolby_on_with_profile">On (%1 $ S)</string>
+    <string name="dolby_category_settings">Configuració</string>
+    <string name="dolby_bass_enhancer">Bass Enhancer</string>
+    <string name="dolby_dialogue_enhancer">Enhancer De Diàleg</string>
+    <string name="dolby_spk_virtualizer">Virtualització Dels Altaveus</string>
+    <string name="dolby_hp_virtualizer">Virtualització Dels Auriculars</string>
+    <string name="dolby_stereo_widening">Eixamplament Estèreo</string>
+    <string name="dolby_volume_leveler">Nivell De Volum</string>
+    <string name="dolby_connect_headphones">Connecteu Els Auriculars</string>
+    <string name="dolby_reset_profile">Restableix Als Valors Predeterminats</string>
+    <string name="dolby_reset_profile_toast">Restableix La Configuració Amb Èxit Per Al Perfil De 1 $ S</string>
+
+    
+    <string name="dolby_profile_dynamic">Dinàmic</string>
+    <string name="dolby_profile_movie">Pel·Lícula</string>
+    <string name="dolby_profile_music">Música</string>
+    <string name="dolby_profile_custom">Costum</string>
+
+    
+    <string name="dolby_preset_default">Plana</string>
+    <string name="dolby_preset_rock">Roca</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Passar</string>
+    <string name="dolby_preset_classical">Clàssic</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Electrònic</string>
+    <string name="dolby_preset_country">Camp</string>
+    <string name="dolby_preset_dance">Ball</string>
+    <string name="dolby_preset_metal">Metal</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Guany</string>
+    <string name="dolby_geq_preset">Preestabliment</string>
+    <string name="dolby_geq_preset_name">Nom Preestablert</string>
+    <string name="dolby_geq_new_preset">Nou Preestablert</string>
+    <string name="dolby_geq_rename_preset">Canviar El Nom Preestablert</string>
+    <string name="dolby_geq_delete_preset">Suprimeix Preset</string>
+    <string name="dolby_geq_delete_preset_prompt">Voleu Eliminar Aquesta Configuració Preestablerta?</string>
+    <string name="dolby_geq_reset_gains">Restableix Els Guanys</string>
+    <string name="dolby_geq_reset_gains_prompt">Voleu Restablir El Predeterminat?</string>
+    <string name="dolby_geq_preset_name_exists">El Nom Preestablert Ja Existeix!</string>
+    <string name="dolby_geq_preset_name_too_long">El Nom Preestablert És Massa Llarg!</string>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Käytä Dolby Atmos</string>
+    <string name="dolby_profile_title">Valitse Profiili</string>
+    <string name="dolby_preset">Graafinen Taajuuskorjain</string>
+    <string name="dolby_off">Pois</string>
+    <string name="dolby_on">-Lla</string>
+    <string name="dolby_low">Matala</string>
+    <string name="dolby_medium">Keskipitkä</string>
+    <string name="dolby_high">Korkea</string>
+    <string name="dolby_max">Max</string>
+    <string name="dolby_unknown">Tuntematon</string>
+    <string name="dolby_on_with_profile">On (%1 Dollaria)</string>
+    <string name="dolby_category_settings">Asetukset</string>
+    <string name="dolby_bass_enhancer">Basso -Tehostaja</string>
+    <string name="dolby_dialogue_enhancer">Vuoropuhelun Parantaja</string>
+    <string name="dolby_spk_virtualizer">Kaiutin Virtualisointi</string>
+    <string name="dolby_hp_virtualizer">Kuulokkeet Virtualisointi</string>
+    <string name="dolby_stereo_widening">Stereot</string>
+    <string name="dolby_volume_leveler">Äänenvoimakkuus</string>
+    <string name="dolby_connect_headphones">Kytke Kuulokkeet</string>
+    <string name="dolby_reset_profile">Palauta Laiminlyöntiin</string>
+    <string name="dolby_reset_profile_toast">Nollaa Asetukset Onnistuneesti %1 Dollarin Profiilista</string>
+
+    
+    <string name="dolby_profile_dynamic">Dynaaminen</string>
+    <string name="dolby_profile_movie">Elokuva</string>
+    <string name="dolby_profile_music">Musiikki</string>
+    <string name="dolby_profile_custom">Räätälöity</string>
+
+    
+    <string name="dolby_preset_default">Tasainen</string>
+    <string name="dolby_preset_rock">Rock</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Klassinen</string>
+    <string name="dolby_preset_hiphop">Hiphop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elektroninen</string>
+    <string name="dolby_preset_country">Maa</string>
+    <string name="dolby_preset_dance">Tanssi</string>
+    <string name="dolby_preset_metal">Metalli</string>
+
+    
+    <string name="dolby_geq_slider_label_gain">Saada</string>
+    <string name="dolby_geq_preset">Esiasetus</string>
+    <string name="dolby_geq_preset_name">Esiasetettu Nimi</string>
+    <string name="dolby_geq_new_preset">Uusi Esiasetus</string>
+    <string name="dolby_geq_rename_preset">Nimeä Uudelleen</string>
+    <string name="dolby_geq_delete_preset">Poista Esiasetus</string>
+    <string name="dolby_geq_delete_preset_prompt">Haluatko Poistaa Tämän Esiasetuksen?</string>
+    <string name="dolby_geq_reset_gains">Nollaa Voitot</string>
+    <string name="dolby_geq_reset_gains_prompt">Haluatko Palauttaa Esiasetuksen Oletusarvoon?</string>
+    <string name="dolby_geq_preset_name_exists">Esiasetettu Nimi On Jo Olemassa!</string>
+    <string name="dolby_geq_preset_name_too_long">Esiasetettu Nimi On Liian Pitkä!</string>
+
+</resources>
